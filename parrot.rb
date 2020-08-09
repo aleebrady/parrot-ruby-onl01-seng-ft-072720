@@ -1,3 +1,3 @@
-def parrot(string)
+def parrot(phrase="Squawk")
   
 end
