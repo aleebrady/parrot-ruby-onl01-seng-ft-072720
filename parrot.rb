@@ -1,0 +1,3 @@
+def parrot(string)
+  
+end
